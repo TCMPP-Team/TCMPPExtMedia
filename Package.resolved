@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TZImagePickerController",
+        "repositoryURL": "https://github.com/TCMPP-Team/TZImagePickerController.git",
+        "state": {
+          "branch": null,
+          "revision": "f1b9b8f638bdb861161e927911d2c58a29efb884",
+          "version": "3.8.9"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
