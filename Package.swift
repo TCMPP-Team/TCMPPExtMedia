@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TCMPPExtMedia",
-            url: "https://tmf-warehouse-1314481471.cos.ap-beijing.myqcloud.com/tcmpp/ios-sdk/noshark/TCMPPExtMedia/2.0.1/13/TCMPPExtMedia_2.0.1.xcframework.zip",
-            checksum: "a4d351cc29a8de6b77c4c14170651aec42fdf43e674f8b2c1b63cbc254bc96cc"
+            url: "https://tmf-warehouse-1314481471.cos.ap-beijing.myqcloud.com/tcmpp/ios-sdk/TCMPPExtMedia/2.0.2/TCMPPExtMedia_2.0.2.zip",
+            checksum: "97b9ac0dc92837de61ee284f81655333cf1bad3b3b1f09c333731a0614abf1e3"
 
         ),
         .target(
